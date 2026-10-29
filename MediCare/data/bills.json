@@ -1,0 +1,16 @@
+[
+  {
+    "id": "B0001",
+    "patient_id": "P0001",
+    "doctor_id": "D0001",
+    "date": "2026-10-29",
+    "items": [
+      {
+        "description": "Consultation fee",
+        "amount": 450.0
+      }
+    ],
+    "total": 450.0,
+    "created_at": "2026-10-29T19:57:55"
+  }
+]
